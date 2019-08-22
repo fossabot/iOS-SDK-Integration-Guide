@@ -2,6 +2,7 @@
 
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/optimove-tech/iOS-SDK-Integration-Guide?style=flat-square)](https://github.com/optimove-tech/iOS-SDK-Integration-Guide/releases/tag/2.2.1)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat-square)](https://github.com/Carthage/Carthage)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Feligoptimove%2FiOS-SDK-Integration-Guide.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Feligoptimove%2FiOS-SDK-Integration-Guide?ref=badge_shield)
 
 ## Setup
 
@@ -30,3 +31,7 @@ github "optimove-tech/iOS-SDK-Integration-Guide"
 ## Integration guide
 
 Please, follow [this link](https://github.com/optimove-tech/Mobile-SDK-Integration-Guide/tree/master/iOS%20Integration%20Guide#optimove-ios-sdk-integration-guide).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Feligoptimove%2FiOS-SDK-Integration-Guide.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Feligoptimove%2FiOS-SDK-Integration-Guide?ref=badge_large)
